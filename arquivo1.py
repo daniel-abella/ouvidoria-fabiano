@@ -1,0 +1,1 @@
+print("Linha 1 do Arquivo1")
